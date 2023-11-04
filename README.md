@@ -5,7 +5,7 @@ i am 13 y.o
 I am studying in ROBOCODE
 
 This is examplw of my js code
-
+``` javascript
 let namePerson ="Danya"
 let number = 1
 let logic = true
@@ -20,4 +20,4 @@ number++
 namePerson--
 
 alert()
-console.log()
+console.log()```
