@@ -1,8 +1,8 @@
 # danya
-# my name is Danya
-# i am 13 y.o
-# I am studying in ROBOCODE
-# This is examplw of my js code
+ my name is Danya
+ i am 13 y.o
+ I am studying in ROBOCODE
+This is examplw of my js code
 let namePerson ="Danya"
 let number = 1
 let logic = true
